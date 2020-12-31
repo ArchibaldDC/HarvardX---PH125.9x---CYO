@@ -1,2 +1,2 @@
 # Predicting-the-House-vote-of-the-1964-Civil-Rights-Act
-Small project for an online course program. 
+Coding project from a histoirian in North American History with a passion for Data Science
